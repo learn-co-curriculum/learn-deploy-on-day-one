@@ -72,7 +72,7 @@ The first thing you'll need to do is add your image assets.
 
 #### Taking stock
 
-Now that you have everything locally, let's take stock of what we have. Take a look at `index.html` and `profile.html` in the browser. To do this: 
+Now that you have everything locally, let's take stock of what we have. Take a look at `index.html` and `your-name.html` (in the Students folder) in the browser. To do this: 
 
 * If you're working on a Mac, you can just find the file locally using Finder and click to view the webpage in Chrome. 
 * If you're working on Nitrous, it's a bit more involved: first push your changes to your GitHub fork, then download your GitHub repo to your computer as a zip file, unzip it and open up the HTML files locally. 
@@ -84,4 +84,6 @@ You may need to cycle a few times until everything looks good. Once you're happy
   1. Easy, just submit a Pull Request back to us. We'll take a look ASAP and get your change merged and deployed.
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/learn-deploy-on-day-one' title='Your first deployment'>Your first deployment</a> on Learn.co and start learning to code for free.</p>
+<a href='https://learn.co/lessons/learn-deploy-on-day-one' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/learn-deploy-on-day-one'>Deploy Your Profile Page</a> on Learn.co and start learning to code for free.</p>

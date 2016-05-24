@@ -165,6 +165,9 @@ a:visited {
   background-image: url("../assets/img/diane-vu.jpg");
 }
 
+#tom-maddox-card{
+background-image: url("../assets/img/tomass.jpg");
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
@@ -219,8 +222,8 @@ a:visited {
 
 .profile-banner {
   height: 410px;
-  background-image: url("../assets/img/banner-photo-placeholder.png");
-  background-position: center;
+  background-image: url("../assets/img/flightless-birds.jpg");
+  background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -246,7 +249,7 @@ a:visited {
 }
 
 .profile-photo {
-  background-image: url("../assets/img/profile-photo-placeholder.png");
+  background-image: url("../assets/img/tomass.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
